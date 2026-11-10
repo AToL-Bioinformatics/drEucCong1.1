@@ -1,0 +1,5 @@
+
+- id: drEucCong1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-690026-m84118_260824_073031_s2.fastq.gz

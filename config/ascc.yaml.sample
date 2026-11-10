@@ -1,0 +1,8 @@
+reads_path:
+  - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-690026-m84118_260824_073031_s2.fastq.gz
+reads_type: "hifi"
+reads_layout: "SINGLE"
+sample_id: "drEucCong1"
+scientific_name: "Eucalyptus conglomerata"
+busco_lineages: "eudicots_odb10"
+taxid: 582361

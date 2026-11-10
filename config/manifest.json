@@ -1,0 +1,30 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "drEucCong1",
+  "scientific_name": "Eucalyptus conglomerata",
+  "taxon_id": 582361,
+  "busco_odb10_dataset_name": "eudicots",
+  "busco_odb12_dataset_name": "eudicotyledons",
+  "ncbi_class": "Magnoliopsida",
+  "find_plastid": true,
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mitochondrial_genetic_code_id": 1,
+  "mitohifi_reference_species": "Brassica napus",
+  "oatk_hmm_name": "magnoliopsida",
+  "augustus_dataset_name": "tiberius_model_cfg:angiosperms.yaml",
+  "genetic_code_id": 1,
+  "assembly_id": "2a9b9ddb-a60e-4011-8825-05c481294e97",
+  "read_files": [
+    {
+      "name": "bpa-tsi-pacbio-hifi-690026-m84118_260824_073031_s2",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/tsi_staging/pacbio-hifi/BPAOPS-2198/20260824_TSI_BRF_m84118_260824_073031_s2/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-tsi-pacbio-hifi-690026-m84118_260824_073031_s2/resource/9a21e4bac0a6004961d35c6132786094/download/690026_TSI_BRF_m84118_260824_073031_s2.hifi_reads.bc2021.bam",
+          "md5sum": "9a21e4bac0a6004961d35c6132786094"
+        }
+      ]
+    }
+  ]
+}
